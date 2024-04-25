@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jeel-Kenia
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently pursuing Master Data Science Course offerent by GUVI.
-- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects.
+- 👋 Hi, I’m @Jeel-Kenia.
+- 🌱 Master Data Science Graduate.
+- 👀 I’m interested in learning new skills
 - 📫 How to reach me https://linkedin.com/in/jeel-kenia
 
 <!---
